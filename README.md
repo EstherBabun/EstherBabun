@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @EstherBabun
-- 👀 I’m interested in learning everything I can about development
-- 🌱 I’m currently learning everything I can about development
-- 💞️ I’m looking to collaborate on the creation of beautiful projects
-- 📫 How to reach me ...
+- 👀 I’m interested in learning everything I can about computer science and the possible hybridizations between arts and technologies.
+- 🌱 I’m currently a student @ 42 Belgium
+- 💞️ I’m looking to collaborate on fun projects... or interesting projects... or beautiful projects.
 - 😄 Pronouns: They/She
-- ⚡ Fun fact: 
 
 <!---
 EstherBabun/EstherBabun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
