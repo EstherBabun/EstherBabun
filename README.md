@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EstherBabun
 - 👀 I’m interested in learning everything I can about development
 - 🌱 I’m currently learning everything I can about development
-- 💞️ I’m looking to collaborate on the creation of beautiful portfolio websites
+- 💞️ I’m looking to collaborate on the creation of beautiful projects
 - 📫 How to reach me ...
 - 😄 Pronouns: They/She
 - ⚡ Fun fact: 
